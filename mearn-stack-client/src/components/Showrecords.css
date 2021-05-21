@@ -1,0 +1,19 @@
+
+.post__title{
+    color:rgb(63,81,181);
+}
+
+.post__card{
+  background-color: rgb(141, 209, 248);
+  display: flex;
+  flex-direction: column;
+}
+.input__field{
+  margin-top: 5%;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin-left: 25%;
+  padding: 20px 0px;
+}
+
